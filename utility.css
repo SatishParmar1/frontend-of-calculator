@@ -1,0 +1,24 @@
+.container{
+  background-color:#dcd6d6;
+  width:400px;
+  border-radius: 10px;
+}
+
+.flex{
+  display:flex;
+}
+
+.flex-di{
+  flex-direction: column;
+}
+
+.row{
+margin:auto;
+font-size:20px;
+}
+
+.item-center{
+  item-align:center;
+  margin:auto;
+ 
+}
